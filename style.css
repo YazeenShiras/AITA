@@ -216,11 +216,13 @@ body::-webkit-scrollbar {
   margin: 0;
   margin-bottom: 5px;
   font-size: 18px;
+  text-align: center;
 }
 
 .announcement__contanier > p {
   margin: 0;
   font-size: 14px;
+  text-align: center;
 }
 
 .date__highlightes {
