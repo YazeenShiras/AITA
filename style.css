@@ -97,7 +97,7 @@ body::-webkit-scrollbar {
 .scroll > p {
   text-transform: uppercase;
   transform: rotate(90deg);
-  margin-top: -58px;
+  margin-top: -25px;
   margin-left: -23px;
 }
 
