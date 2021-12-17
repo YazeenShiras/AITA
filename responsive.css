@@ -60,6 +60,25 @@
     margin-top: 20px;
     font-size: 13px;
   }
+  .announcement__contanier {
+    padding: 10px 25px 10px 25px;
+  }
+
+  .announcement__contanier > h4 {
+    margin: 0;
+    margin-bottom: 5px;
+    font-size: 15px;
+  }
+
+  .announcement__contanier > p {
+    margin: 0;
+    font-size: 12px;
+  }
+
+  .date__highlightes {
+    font-weight: bold;
+    font-size: 13px;
+  }
   .top__aita {
     flex-direction: column;
   }
